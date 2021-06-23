@@ -13,3 +13,7 @@ to run tests
 ```
   yarn test
 ```
+
+```
+yarn jest Action
+```
