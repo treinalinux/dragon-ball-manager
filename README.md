@@ -1,4 +1,9 @@
-# Testing components with Testing library
+# Esferas do Dragon BallZ usando ReactJS
+
+
+Crie um gerenciador de esferas do Dragon BallZ usando ReactJS, Jest, React Testing Library e Cypress.
+
+Projeto já estava pronto e foi disponibilizado apenas para testes.
 
 This is a simple project to study about testing components using [Testing Library](https://testing-library.com/)
 
@@ -16,4 +21,8 @@ to run tests
 
 ```
 yarn jest Action
+```
+
+```
+yarn run cypress open
 ```

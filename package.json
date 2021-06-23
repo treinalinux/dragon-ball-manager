@@ -44,6 +44,7 @@
     "@testing-library/react": "^10.0.2",
     "@testing-library/user-event": "^7.1.2",
     "cypress": "^4.5.0",
+    "eslint-plugin-cypress": "^2.11.3",
     "jest-environment-jsdom": "^26.0.1",
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "prettier": "2.3.1"
